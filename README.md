@@ -1,4 +1,6 @@
 # WeSQL
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwesql%2Fwesql.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwesql%2Fwesql?ref=badge_shield)
+
 
 WeSQL is an innovative MySQL distribution that adopts a compute-storage separation architecture, with storage backed by S3 (and S3-compatible systems).
 It can run on any cloud, ensuring no vendor lock-in.
@@ -28,3 +30,6 @@ For further information on WeSQL or additional documentation, visit
 ## Licensing
 
 Portions Copyright (c) 2024, ApeCloud Inc Holding Limited. WeSQL is specifically available only under version 2 of the GNU General Public License (GPLv2). (I.e. Without the "any later version" clause.) This is inherited from MySQL. Please see the README file in the MySQL distribution for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwesql%2Fwesql.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwesql%2Fwesql?ref=badge_large)
